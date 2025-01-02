@@ -51,12 +51,6 @@ pip install numpy pandas scikit-learn
    cd Matrix-Factorization-Negative-Sampling
    ```
 
-3. (Optional) Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 To run the project, simply execute the main Python script:
